@@ -21,4 +21,4 @@
             android:exported="false"
             android:configChanges="orientation|screenSize|screenLayout|smallestScreenSize|keyboard|keyboardHidden|navigation|uiMode" />
     </application>
-</manifest>
+</manifest> 

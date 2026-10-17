@@ -29,8 +29,8 @@ kotlin { jvmToolchain(17) }
 
 dependencies {
     // Troque VERSAO pela última tag da LibretroDroid
-    implementation("com.github.swordfish90:libretrodroid:VERSAO")
-
+    
+implementation("com.github.swordfish90:libretrodroid:0.13.2")
     implementation(platform("androidx.compose:compose-bom:2025.04.01"))
     implementation("androidx.compose.ui:ui")
     implementation("androidx.compose.foundation:foundation")

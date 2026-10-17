@@ -1,0 +1,4 @@
+<!-- backup_rules.xml -->
+<full-backup-content>
+    <include domain="file" path="saves/" />
+</full-backup-content>
